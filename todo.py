@@ -25,4 +25,4 @@ add_task("파이썬 공부하기")
 add_task("깃허브에 올리기")
 show_tasks()
 delete_task(1)
-show_tasks()
+$show_tasks()$
